@@ -21,9 +21,9 @@ interests:
 - Information Retrieval
 name: Carlos Fernandez
 organizations:
-- name: Stanford University
+- name: PIK
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
